@@ -7,3 +7,15 @@
 html {
     font-family: Helvetica;
 }
+
+.box {
+    background-image: url("mountains.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #c4ccce;
+    text-align: center;
+    padding-top: 1px; 
+    padding-bottom: 200px;
+    background-position: top;
+  }
+  
